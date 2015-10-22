@@ -1,6 +1,6 @@
 # RedisTool
 
-As redis-cli can not do some commands like delete by pattern, I wrote this tool to help do such things. Features will add one by one later.
+As redis-cli can not do some commands like delete by pattern, I wrote this tool to help do such things. Features will be added one by one later.
 
 ## Features:
 
